@@ -15,7 +15,7 @@ CPU: [i7 7700](https://ark.intel.com/content/www/us/en/ark/products/97128/intel-
 
 鼠标：罗技蓝牙鼠标 M558
 
-
+![image](https://github.com/Titzanyic/Clover/blob/master/other/screenshot.png)
 
 ### 使用情况：
 系统为 10.13.6 (17G65)
