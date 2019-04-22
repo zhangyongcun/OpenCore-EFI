@@ -86,7 +86,7 @@
 		<key>Debug</key>
 		<false/>
 		<key>DefaultVolume</key>
-		<string>MacHDD</string>
+		<string>Macintosh HD</string>
 		<key>Legacy</key>
 		<string>PBR</string>
 		<key>Secure</key>
