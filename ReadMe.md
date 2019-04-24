@@ -25,3 +25,7 @@ CPU: [i7 7700](https://ark.intel.com/content/www/us/en/ark/products/97128/intel-
 - 蓝牙：蓝牙驱动完美，支持开机自动连接键盘和鼠标；
 - USB: 支持 USB 3.0，支持 USB 键鼠、声卡、蓝牙适配器等设备；
 - 其他：支持休眠和唤醒；
+
+更多分享欢迎关注公众号：
+
+![](http://img.yingxiaoshi.com//20190220174803.jpg)
