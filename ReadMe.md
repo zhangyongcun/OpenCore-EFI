@@ -16,6 +16,8 @@ CPU: [i7 7700](https://ark.intel.com/content/www/us/en/ark/products/97128/intel-
 
 鼠标：罗技蓝牙鼠标 M558
 
+![](https://github.com/Titzanyic/Clover/blob/rx580/other/10.14.png)
+
 #### 下载镜像
 
 使用 **macOS Mojave 10.14.6 18G87 正式版 with Clover**  版本更方便，驱动大部分都已经集成并更新至适合当前系统的状态，基本上不用调整可以直接安装。推荐 [黑苹果小兵](https://blog.daliansky.net/)，有详细的安装步骤和资源文件。[点击使用迅雷下载系统](https://mirrors.dtops.cc/iso/MacOS/daliansky_macos/macOS%20Mojave%2010.14.6%2818G87%29%20Installer%20with%20Clover%205033.dmg)
@@ -54,7 +56,7 @@ USB： 正常，USB 3.0 可以读取可以达到硬盘的理论值速度。
 
 唯独只有声音不正常，打开 Clover Configurator.app 挂载 EFI 分区，通过 Clover Configurator.app 打开 cconfig.list 文件，选择【设备设置】，在 Audio 区域，选择注入，并设置参数为 1，重启电脑，打开 【系统偏好设置】选择【声音】，输入和输出都选择内建，声音就可以正常输出了。
 
-#### ![image-20190805091427682](/Users/titzanyic/Library/Mobile Documents/com~apple~CloudDocs/图片/typora/image-20190805091427682.png)
+![](https://github.com/Titzanyic/Clover/blob/rx580/other/voice.png)
 
 
 
@@ -70,3 +72,7 @@ USB： 正常，USB 3.0 可以读取可以达到硬盘的理论值速度。
 defaults write com.apple.systempreferences AttentionPrefBundleIDs 0
 killall Dock
 ```
+
+更多分享欢迎关注公众号：
+
+![](http://img.yingxiaoshi.com//20190220174803.jpg)
