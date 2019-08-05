@@ -1,3 +1,21 @@
+#### 硬件配置
+
+主板：[技嘉 BM250M](http://www.gigabyte.cn/Motherboard/GA-B250M-D3H-rev-10)
+
+CPU: [i7 7700](https://ark.intel.com/content/www/us/en/ark/products/97128/intel-core-i7-7700-processor-8m-cache-up-to-4-20-ghz.html)
+
+显卡: [RX 580 8G](https://www.amd.com/en/products/graphics/radeon-rx-580)
+
+内存：32 GB 2666 MHz DDR4
+
+硬盘：SSD（256GB） + HDD（2T）
+
+蓝牙： USB 蓝牙适配器，CSR 芯片，蓝牙版本为 4.0
+
+键盘： NiZ 静电容键盘
+
+鼠标：罗技蓝牙鼠标 M558
+
 #### 下载镜像
 
 使用 **macOS Mojave 10.14.6 18G87 正式版 with Clover**  版本更方便，驱动大部分都已经集成并更新至适合当前系统的状态，基本上不用调整可以直接安装。推荐 [黑苹果小兵](https://blog.daliansky.net/)，有详细的安装步骤和资源文件。[点击使用迅雷下载系统](https://mirrors.dtops.cc/iso/MacOS/daliansky_macos/macOS%20Mojave%2010.14.6%2818G87%29%20Installer%20with%20Clover%205033.dmg)
