@@ -16,7 +16,7 @@ CPU: [i7 7700](https://ark.intel.com/content/www/us/en/ark/products/97128/intel-
 
 鼠标：罗技蓝牙鼠标 M558
 
-![](https://github.com/Titzanyic/Clover/blob/rx580/other/10.14.png)
+![](image/10.14.png)
 
 #### 下载镜像
 
@@ -56,7 +56,7 @@ USB： 正常，USB 3.0 可以读取可以达到硬盘的理论值速度。
 
 唯独只有声音不正常，打开 Clover Configurator.app 挂载 EFI 分区，通过 Clover Configurator.app 打开 cconfig.list 文件，选择【设备设置】，在 Audio 区域，选择注入，并设置参数为 1，重启电脑，打开 【系统偏好设置】选择【声音】，输入和输出都选择内建，声音就可以正常输出了。
 
-![](https://github.com/Titzanyic/Clover/blob/rx580/other/voice.png)
+![](image/voice.png)
 
 
 
