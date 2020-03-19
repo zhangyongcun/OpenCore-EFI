@@ -16,7 +16,11 @@ CPU: [i7 7700](https://ark.intel.com/content/www/us/en/ark/products/97128/intel-
 
 鼠标：罗技蓝牙鼠标 M558
 
-![](image/10.14.png)
+![](image/10.15.png)
+
+#### 显示器
+
+![](image/display.png)
 
 #### 下载镜像
 
