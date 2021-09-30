@@ -2,9 +2,9 @@
 
 参考文档：[OpenCore](https://dortania.github.io/OpenCore-Install-Guide/)
 
-CPU：[i9 7900X ](https://ark.intel.com/content/www/us/en/ark/products/123613/intel-core-i9-7900x-x-series-processor-13-75m-cache-up-to-4-30-ghz.html) 10 核心 20线 **3.30 GHz**
+CPU：[i7 8700K](https://ark.intel.com/content/www/cn/zh/ark/products/126684/intel-core-i7-8700k-processor-12m-cache-up-to-4-70-ghz.html)
 
-主板：[技嘉X299](https://www.gigabyte.cn/Motherboard/X299-AORUS-Gaming-3-rev-10#kf) 
+主板：[Z370 Pro4](https://www.asrock.com/mb/Intel/Z370%20Pro4/index.asp)
 
 内存： 64G DDR4 
 
@@ -20,7 +20,7 @@ CPU：[i9 7900X ](https://ark.intel.com/content/www/us/en/ark/products/123613/in
 
 显示器：LG HDR 4K
 
-![bigsur](src/bigsur.png)
+![bigsur](img/bigsur.png)
 
 ## 安装步骤
 
@@ -38,18 +38,3 @@ CPU：[i9 7900X ](https://ark.intel.com/content/www/us/en/ark/products/123613/in
 ##### Chipset
 
 - VT-d Disabled
-
-### 制作安装盘：
-
-打开磁盘工具，显示所有设置 （Command + 2），格式化为 MyVolume
-
-![u](src/u.png)
-
-下载 Big Sur 镜像并写入，详细请参考[苹果官网](https://support.apple.com/zh-cn/HT201372)
-
-```
-sudo /Applications/Install\ macOS\ Big\ Sur\ Beta.app/Contents/Resources/createinstallmedia --volume /Volumes/MyVolume
-```
-
-重启使用 U盘启动。
-
