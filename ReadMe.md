@@ -12,7 +12,7 @@ CPU：[i7 8700K](https://ark.intel.com/content/www/cn/zh/ark/products/126684/int
 
 显卡：  [RX580 8G](https://www.gigabyte.com/tw/Graphics-Card/GV-RX580GAMING-8GD-rev-10-11-12#kf)
 
-蓝牙：USB 蓝牙适配器，CSR 芯片，蓝牙版本为 4.0
+无线模块：BCM943602CS
 
 键盘：秒控键盘 1代
 
@@ -20,7 +20,7 @@ CPU：[i7 8700K](https://ark.intel.com/content/www/cn/zh/ark/products/126684/int
 
 显示器：LG HDR 4K
 
-![bigsur](img/bigsur.png)
+![bigsur](img/monterey.png)
 
 ## 安装步骤
 
@@ -38,3 +38,14 @@ CPU：[i7 8700K](https://ark.intel.com/content/www/cn/zh/ark/products/126684/int
 ##### Chipset
 
 - VT-d Disabled
+
+
+
+## 功能
+
+- 随航
+- 隔空投送
+- Apple 解锁 Mac
+- AirPlay to Mac
+- 通用粘贴板、接力
+
