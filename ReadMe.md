@@ -2,6 +2,8 @@
 
 参考文档：[OpenCore](https://dortania.github.io/OpenCore-Install-Guide/)
 
+产品链接：[optiplex-3080-micro-desktop](https://www.dell.com/en-us/work/shop/desktops-all-in-one-pcs/optiplex-3080-micro-desktop/spd/optiplex-3080-micro)
+
 CPU：[i3-10100T](https://ark.intel.com/content/www/cn/zh/ark/products/199284/intel-core-i310100t-processor-6m-cache-up-to-3-80-ghz.html)
 
 内存： 16G DDR4 
