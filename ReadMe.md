@@ -8,7 +8,7 @@ CPU：[i7 8700K](https://ark.intel.com/content/www/cn/zh/ark/products/126684/int
 
 内存： 64G DDR4 
 
-硬盘：[Intel® SSD 750 Series](https://ark.intel.com/content/www/us/en/ark/products/86742/intel-ssd-750-series-400gb-2-5in-pcie-3-0-20nm-mlc.html)
+硬盘：[西部数据 SN 570 1T](https://www.westerndigital.com/products/internal-drives/wd-blue-sn570-nvme-ssd)
 
 显卡：  [RX580 8G](https://www.gigabyte.com/tw/Graphics-Card/GV-RX580GAMING-8GD-rev-10-11-12#kf)
 
