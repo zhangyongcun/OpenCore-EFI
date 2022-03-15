@@ -14,9 +14,9 @@ CPU：[i7 8700K](https://ark.intel.com/content/www/cn/zh/ark/products/126684/int
 
 无线模块：BCM943602CS
 
-键盘：秒控键盘 1代
+键盘：秒控键盘第三代（A1314） （两节五号电池 🔋）
 
-鼠标：罗技蓝牙鼠标 M558
+鼠标：妙控板
 
 显示器：LG HDR 4K
 
