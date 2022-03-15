@@ -48,4 +48,5 @@ CPU：[i7 8700K](https://ark.intel.com/content/www/cn/zh/ark/products/126684/int
 - Apple 解锁 Mac
 - AirPlay to Mac
 - 通用粘贴板、接力
+- 通用控制
 
