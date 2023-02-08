@@ -6,7 +6,7 @@ CPU：[i7 10700K](https://ark.intel.com/content/www/us/en/ark/products/199335/in
 
 主板：[ROG STRIX Z490-A GAMING](https://rog.asus.com/tw/motherboards/rog-strix/rog-strix-z490-a-gaming-model/spec/)
 
-内存： 64G DDR4 
+内存： 128G DDR4 
 
 硬盘：[西部数据 SN 750 500G](https://www.westerndigital.com/products/internal-drives/wd-black-sn750-nvme-ssd#WDS500G3XHC)
 
